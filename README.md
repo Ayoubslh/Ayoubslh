@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm **Ayoub Abdelmoumen Salhi**, a **FullStack web/mobile**, **game dev hobbyist**, and **security & 3D enthusiast**.  
+I'm **Ayoub Abdelmoumen Salhi**, a **MERN stack and react native dev**, **game dev hobbyist**, and **security & 3D enthusiast**.  
 Currently pursuing a **Computer Science degree** at university.
 
 ## 🌐 Socials:
